@@ -1,0 +1,28 @@
+html,body {
+  height: 100%;
+  font-family:'Microsoft YaHei';
+  color: #333;
+  background-color: rgb(255, 255, 255);
+  margin: 0%;
+  padding: 0%;
+}
+* {
+  box-sizing: border-box;
+  touch-action: pan-y;
+}
+:root:root {
+  --adm-color-primary: #21b97a;
+}
+
+h2 , h3, p{
+  margin: 0;
+}
+
+html , body , #root , .App{
+    height: 100%;
+}
+
+ul{
+  margin: 0%;
+  list-style: none;
+}

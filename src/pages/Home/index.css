@@ -1,0 +1,41 @@
+.home {
+    /* height: auto; */
+    /* display: flex; */
+    /* justify-content: center; */
+    /* align-items: flex-end; */
+    padding-bottom: 50px;
+
+}
+
+.home .iconfont{
+    font-size:  20px;
+}
+.home .adm-tab-bar-item-title{
+    font-size:  11px;
+    
+
+}
+.home .adm-tab-bar{
+    position: fixed;
+    /* margin: auto; */
+    bottom: 0%;
+    width: 100%;
+    background-color: #f6f5f6;
+    /* border: 1px;
+    border-top-color: dodgerblue;
+    border-top-style: dotted; */
+ 
+
+    right:  0%;
+    /* display: flex; */
+/*     
+    justify-content: space-around;  
+    align-items: center;    */
+}
+
+.home .adm-tab-bar-wrap{
+    display: flex;
+    justify-content: space-around;
+    align-items:center;
+}
+
