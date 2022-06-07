@@ -1,3 +1,11 @@
+# React 好客租房 demo
+### 简介 
+B站React课程复现demo，https://www.bilibili.com/video/BV1gh411U7JD?p=1
+使用React（v18）、React-router-dom(v6)、antd-mobile(v5),函数组件
+### 存在bug 
+- react-virtualized 右侧索引点击会渲染两次
+- Map组件中不能展示HouseItem组件
+- 以后变强了再来改吧
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
