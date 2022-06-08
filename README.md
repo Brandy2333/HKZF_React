@@ -5,6 +5,7 @@ B站React课程复现demo，https://www.bilibili.com/video/BV1gh411U7JD?p=1
 ### 存在bug 
 - react-virtualized 右侧索引点击会渲染两次
 - Map组件中不能展示HouseItem组件
+- React18中会提示一些17的方法18不支持，暂未解决
 - 以后变强了再来改吧
 - 不太算bug的一点
   - 介绍H5地理位置API时，由于使用了Chromium，不能进行https请求，这个可以设置代理，但是本文没有做，后面百度地图API可以解决
