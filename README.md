@@ -6,6 +6,8 @@ B站React课程复现demo，https://www.bilibili.com/video/BV1gh411U7JD?p=1
 - react-virtualized 右侧索引点击会渲染两次
 - Map组件中不能展示HouseItem组件
 - 以后变强了再来改吧
+- 不太算bug的一点
+  - 介绍H5地理位置API时，由于使用了Chromium，不能进行https请求，这个可以设置代理，但是本文没有做，后面百度地图API可以解决
 ### 一些文档
 - React 官方文档： https://zh-hans.reactjs.org/docs/forms.html#controlled-components
 - Antd-mobile: https://mobile.ant.design/zh/components/tab-bar 
