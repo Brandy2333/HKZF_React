@@ -6,6 +6,26 @@ B站React课程复现demo，https://www.bilibili.com/video/BV1gh411U7JD?p=1
 - react-virtualized 右侧索引点击会渲染两次
 - Map组件中不能展示HouseItem组件
 - 以后变强了再来改吧
+### 一些文档
+- React 官方文档： https://zh-hans.reactjs.org/docs/forms.html#controlled-components
+- Antd-mobile: https://mobile.ant.design/zh/components/tab-bar 
+- React-virtualized:https://github.com/bvaughn/react-virtualized
+- React-router的官方文档后来找不到了，参考知乎大佬的文章，对比了一下改动:https://zhuanlan.zhihu.com/p/431389907
+### 缩减版目录
+-src 结构
+  - components 一些公用组件
+  - pages 一些页面
+  - utils 工具
+### 启动方法
+在根目录运行 npm start 
+### 后端数据
+参考课程中的评论的课程附件，需自己将数据录入数据库，并修改保存服务器代码中的链接数据库的账号密码
+
+### 后记
+希望能找到实习，再补补基础，后头把bug改了
+
+
+# 下面的不用看
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
