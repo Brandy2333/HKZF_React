@@ -12,7 +12,7 @@ B站React课程复现demo，https://www.bilibili.com/video/BV1gh411U7JD?p=1
 - React-virtualized:https://github.com/bvaughn/react-virtualized
 - React-router的官方文档后来找不到了，参考知乎大佬的文章，对比了一下改动:https://zhuanlan.zhihu.com/p/431389907
 ### 缩减版目录
--src 结构
+- src 结构
   - components 一些公用组件
   - pages 一些页面
   - utils 工具
